@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>I Love Australia</title>
+<style>
+body{font-family:Arial;margin:0;background:#f5f5f5;text-align:center}
+header{background:#00843D;color:#fff;padding:40px}
+section{padding:30px}
+.card{background:#fff;margin:15px;padding:20px;border-radius:15px}
+</style>
+</head>
+<body>
+<header>
+<h1>I Love Australia</h1>
+<p>Fan page celebrating Australia</p>
+</header>
+<section>
+<div class="card">Beautiful Beaches</div>
+<div class="card">Wildlife</div>
+<div class="card">Aussie Lifestyle</div>
+</section>
+</body>
+</html>
